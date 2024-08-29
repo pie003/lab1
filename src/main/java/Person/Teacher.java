@@ -12,7 +12,6 @@ public class Teacher extends Person {
     protected String name;
     protected String surname;
     protected String patronymic;
-    protected boolean gender;
     
     public Teacher (String name, String surname, String patronymic){
         this.name=name;

@@ -11,7 +11,6 @@ package Person;
 public class Student extends Person{
     protected String name;
     protected String surname;
-    protected boolean gender;
     
     public Student (String name, String surname){
         this.name=name;
